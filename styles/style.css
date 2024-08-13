@@ -311,7 +311,7 @@ body {
 
 .purchase__container {
   width: 100%;
-  background-image: url(/images/purchase.png);
+  background-image: url(./..//images/purchase.png);
   height: 476px;
 }
 
@@ -461,7 +461,7 @@ body {
   width: 100%;
   height: 853px;
   margin-top: 80px;
-  background: url(/images/Layer__333.png) no-repeat;
+  background: url(./..//images/Layer__333.png) no-repeat;
 }
 
 .feedback__wrapper {
