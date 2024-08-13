@@ -353,46 +353,6 @@ body {
   background-color: #18cfab;
 }
 
-/* Our amazing work */
-
-.work__container {
-  width: 100%;
-  background-color: #e9edef;
-}
-
-.work__wrapper {
-  width: 1160px;
-  margin: 0 auto;
-  height: 100%;
-}
-
-.work__wrapper .title {
-  padding-top: 13px;
-}
-
-.work__img img {
-  width: 285px;
-  height: 211px;
-  margin-bottom: 1px;
-}
-
-.work__img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  width: 285px;
-  height: 211px;
-  margin-bottom: 1px;
-  position: relative;
-}
-
-.work__block {
-  display: flex;
-  flex-flow: wrap row;
-}
-
-
 /* Breaking News */
 
 .news__container {
