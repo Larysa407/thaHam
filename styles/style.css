@@ -15,7 +15,7 @@ body {
 /* Header */
 
 .header {
-  background: url(/images/background.png) no-repeat;
+  background: url(../thaHam/images/background.png) no-repeat;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
