@@ -381,7 +381,6 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  flex-direction: column;
   width: 285px;
   height: 211px;
   margin-bottom: 1px;
